@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Taha-esselmouni/covid19finall.git"
+    "url": "git+https://github.com/Taha-esselmouni/C3-covid19.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Taha-esselmouni/covid19finall/issues "
+    "url": "https://github.com/Taha-esselmouni/C3-covid-19/issues "
   },
-  "homepage": "https://github.com/Taha-esselmouni/covid19finall#readme",
+  "homepage": "https://github.com/Taha-esselmouni/C3-covid-19#readme",
   "dependencies": {},
   "devDependencies": {
     "autoprefixer": "^9.7.5",
